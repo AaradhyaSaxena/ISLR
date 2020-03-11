@@ -1,4 +1,4 @@
-# 09-ISLR
+# ISLR
 This repository contains Python code for a selection of tables, figures and LAB sections from the book "An Introduction to Statistical Learning with Applications in R" by James, Witten, Hastie, Tibshirani (2013).<P>
 
 Chapter 3 - Linear Regression<BR>
