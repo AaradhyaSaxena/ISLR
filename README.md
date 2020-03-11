@@ -10,18 +10,6 @@ Chapter 8 - Tree-Based Methods</A><BR>
 Chapter 9 - Support Vector Machines</A><BR>
 Chapter 10 - Unsupervised Learning</A><P>
 
-Since Python is my language of choice for data analysis, I decided to try and do some of the calculations and plots in Jupyter Notebooks using:
-
- - pandas
- - numpy
- - scipy
- - scikit-learn
- - python-glmnet
- - statsmodels
- - patsy
- - matplotlib
- - seaborn
-
 It was a good way to learn more about Machine Learning in Python by creating these notebooks. I created some of the figures/tables of the chapters and worked through some LAB sections. At certain points I realize that it may look like I tried too hard to make the output identical to the tables and R-plots in the book. But I did this to explore some details of the libraries mentioned above (mostly matplotlib and seaborn). Suggestions for improvement and help with unsolved issues are welcome!
 
 #### References: 
